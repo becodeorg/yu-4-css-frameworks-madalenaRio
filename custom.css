@@ -1,0 +1,16 @@
+
+body {
+    background-color: #E6EFF6;
+}
+.card {
+    box-shadow: 0px 0px 5px 0px #dadadd;
+}
+.card:hover {
+    box-shadow: 5px 50px 25px 5px #c2c2c3;
+
+}
+.btn:hover {
+    box-shadow: 0px 4px 10px 1px #cac6c6;
+    background-color: #4AAAF6;
+    color: aliceblue;
+  }
