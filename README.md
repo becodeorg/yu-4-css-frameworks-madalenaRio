@@ -2,6 +2,10 @@
 this is an exercise about frameworks
 in becode school campus ghent belgium.
 
+My Netifly Link:
+frameworkexercisebootstrapmad.netlify.app
+<a href="https://frameworkexercisebootstrapmad.netlify.app/">
+
 atributions for icon design:
 
 <a href="https://www.flaticon.com/free-icons/paper-plane" title="paper plane icons">Paper plane icons created by Freepik - Flaticon</a>

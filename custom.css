@@ -10,12 +10,12 @@ body {
   box-shadow: 5px 50px 25px 5px #c2c2c3;
 }
 
+.btn {
+  color: #697589;
+}
+
 .btn:hover {
   box-shadow: 0px 4px 10px 1px #cac6c6;
   background-color: #4AAAF6;
   color: aliceblue;
-}
-
-.h4 {
-  color: #4AAAF6;
 }/*# sourceMappingURL=custom.css.map */
